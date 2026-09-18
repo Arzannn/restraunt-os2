@@ -1,0 +1,7 @@
+{
+  "name": "dee-kays-restro-cafe",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": { "dev": "vite", "build": "vite", "preview": "vite preview" },
+  "devDependencies": { "vite": "latest" }
+}
